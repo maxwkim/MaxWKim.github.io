@@ -259,3 +259,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+# Remote theme for Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes"
